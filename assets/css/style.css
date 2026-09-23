@@ -32,3 +32,18 @@ picture img {
 h1 {
     padding: 16px 0;    
 }
+
+#container {
+    padding: 16px;
+}
+
+#container a {    
+    background-color: #fff;
+    border: solid 1px limegreen;
+}
+
+#container a img {
+    display: block;
+    width: 280px;
+    height: 280px;
+}

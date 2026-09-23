@@ -55,7 +55,15 @@ h1 {
 }
 
 #container a:hover {
-    width: 120%;
-    height: 120%;
+    transform: scale(1.1);
+    transition: .5s;
     z-index: 2;
+}
+
+#rodape {
+    padding: 16px;
+}
+
+p {
+    text-align: center;
 }
